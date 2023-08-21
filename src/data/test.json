@@ -1,0 +1,527 @@
+{
+  "index": "1541",
+  "company_name": "Asia ekspress",
+  "logo": "https://sqb.uz/upload/iblock/157/1574dc055fd058aa124f2ea26b98ead6.png",
+  "link": "",
+  "description": "",
+  "tarifs": [
+    {
+      "tarif_name": "to Russia",
+      "countrys": [
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Armenia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Belarus"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Georgia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Kyrgyzstan"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Russia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Tajikistan"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Kazakhstan"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Moldova"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Abkhazia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Azerbaijan"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Czech"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Cyprus"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Latvia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Austria"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Egypt"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Jordan"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Netherlands"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Portugal"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Romania"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "France"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Greece"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Great Britain"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "China"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Turkey"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Belgium"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Spain"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Italy"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Ireland"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Macedonia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Serbia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "United Arab Emirates"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Japan"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Korea"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Malaysia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Israel"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "USA"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Canada"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Ukraine"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Hungary"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Denmark"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Poland"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Germany"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Slovakia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Nepal"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Mongolia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Sweden"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Turkmenistan"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Lithuania"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Bulgaria"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Vietnam"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Estonia"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Albania"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Africa"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Bangladesh"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "India"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Philippines"
+        },
+        {
+          "tarif": "to Russia",
+          "price_min": "0.01",
+          "price_max": "10000",
+          "comission": "1.4",
+          "comission_type": "procent",
+          "currency": "usd",
+          "country": "Sri Lanka"
+        }
+      ]
+    }
+  ]
+}
